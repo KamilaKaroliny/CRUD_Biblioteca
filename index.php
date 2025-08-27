@@ -44,17 +44,17 @@
 <div class="container login-options text-center">
     <h1 class="mb-5">Escolha o que deseja analisar!</h1>
     <div class="d-grid gap-5 col-7 mx-auto">
-        <button class="btn btn-success btn-login" onclick="window.location.href='./public/livros/read.php'">
-            Livros
+        <button class="btn btn-success btn-login" onclick="window.location.href='./public/autores/read.php'">
+            Autores
+        </button>
+        <button class="btn btn-success btn-login" onclick="window.location.href='./public/emprestimos/read.php'">
+            Empréstimo
         </button>
         <button class="btn btn-success btn-login" onclick="window.location.href='./public/leitores/read.php'">
             Leitores
         </button>
-        <button class="btn btn-success btn-login" onclick="window.location.href='./public/emprestimo/read.php'">
-            Emprestimo
-        </button>
-        <button class="btn btn-success btn-login" onclick="window.location.href='./public/autores/read.php'">
-            Autores
+        <button class="btn btn-success btn-login" onclick="window.location.href='./public/livros/read.php'">
+            Livros
         </button>
     </div>
 </div>

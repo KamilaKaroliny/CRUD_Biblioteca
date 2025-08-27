@@ -40,5 +40,3 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <a href="read.php" class="btn btn-secondary">Voltar</a>
     </form>
 </div>
-
-<?php include('../../includes/footer.php'); ?>

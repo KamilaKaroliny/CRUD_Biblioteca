@@ -74,3 +74,4 @@ include('../../includes/header.php');
 </div>
 
 <?php include('../../includes/footer.php'); ?>
+<link rel="stylesheet" href="../../style/style.css">

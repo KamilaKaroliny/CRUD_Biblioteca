@@ -1,5 +1,5 @@
                                         Biblioteca em CRUD.
-
+.
                     Como rodar no XAMPP
 
 1. Baixe e instale o XAMPP;
@@ -62,5 +62,5 @@ Excluir: remover empréstimo.
 
                     Créditos
 
-Este projeto foi desenvolvido pelo aluno: kamilakaroliny. 
+Este projeto foi desenvolvido pela aluna: kamilakaroliny. 
 Projetado pelo nosso professor de desenvolvimento de sistemas Ícaro Botelho. Livre para estudos e dicas de melhoria.

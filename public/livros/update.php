@@ -95,5 +95,3 @@ $autores = $conn->query("SELECT id_autor, nome FROM autores ORDER BY nome");
         </div>
     </form>
 </div>
-
-<?php include('../../includes/footer.php'); ?>

@@ -15,8 +15,9 @@
         <div>
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item"><a class="nav-link" href="../../public/autores/read.php">Autores</a></li>
+                <li class="nav-item"><a class="nav-link" href="../../public/emprestimos/read.php">Empréstimos</a></li>
                 <li class="nav-item"><a class="nav-link" href="../../public/leitores/read.php">Leitores</a></li>
-                <li class="nav-item"><a class="nav-link" href="../../public/emprestimos/read.php">Emprestimos</a></li>
+                <li class="nav-item"><a class="nav-link" href="../../public/livros/read.php">Livros</a></li>
                 <li class="nav-item"><a class="nav-link" href="../../index.php">Página Inicial</a></li>
             </ul>
         </div>
